@@ -11,7 +11,7 @@
   点击创建XXData.asset文件，拖到脚本上直接使用
 
 ## Log Viewer
-
+  https://github.com/aliessmael/Unity-Logs-Viewer
   发布unity包后也能查看日志
   
  
