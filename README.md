@@ -1,7 +1,10 @@
 # Unity Study
 ## ScriptableObject
+  
   [CreateAssetMenu(fileName = "XXData", menuName = "Data/XXData")]
   
-  public sealed class XXData : ScriptableObject {
+  public class XXData : ScriptableObject {
     
   }
+  用于配置只读不改的数据表，减少内存；
+  点击创建XXData.asset文件，拖到脚本上直接使用
