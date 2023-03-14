@@ -1,2 +1,7 @@
 # Unity Study
-Hello_World_for_example
+## ScriptableObject
+  [CreateAssetMenu(fileName = "XXData", menuName = "Data/XXData")]
+  
+  public sealed class XXData : ScriptableObject {
+    
+  }
